@@ -1,0 +1,12 @@
+{
+  "name": "ga2-aa28c9",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {}
+  },
+  "postCreateCommand": "uv pip install fastapi",
+  "extensions": [
+    "astral-sh.uv",
+    "ms-python.python"
+  ]
+}
