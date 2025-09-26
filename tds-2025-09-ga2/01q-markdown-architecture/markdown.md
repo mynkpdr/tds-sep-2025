@@ -25,7 +25,9 @@ Run the command: `uv deploy qs4pqid-oeat`
 [GOOGLE](https://google.com)
 
 ```mermaid
-edge-u -> api-93adslth4h -> worker-mdg5v8rnqz
+graph TD
+    edge-u["Edge-U"] --> api["api-93adslth4h"]
+    api --> worker["worker-mdg5v8rnqz"]
 ```
 > [!NOTE] mforpc7r-edure5jxer-9m8yabt
 
