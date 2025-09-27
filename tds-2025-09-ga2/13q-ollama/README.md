@@ -70,20 +70,4 @@ ngrok http 11434 \
 pkill -f ollama
 ```
 
-* Test CORS locally before ngrok:
-
-```bash
-curl -i -H "Origin: http://example.com" http://localhost:11434
-```
-
-* For ngrok, you can test:
-
-```bash
-curl -i -H "Origin: https://<your-ngrok-id>.ngrok-free.app" https://<your-ngrok-id>.ngrok-free.app
-```
-
 ---
-
-If you want, I can also provide a **one-liner that kills any old Ollama, sets `OLLAMA_ORIGINS="*"`, starts Ollama, and launches ngrok** so everything works at once.
-
-Do you want me to do that?
