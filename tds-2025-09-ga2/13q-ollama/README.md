@@ -67,7 +67,8 @@ ngrok http 11434 \
 * If Ollama is already running on `11434`, stop it first:
 
 ```bash
-pkill -f ollama
+systemctl stop ollama
+ollama serve
 ```
 
 ---
