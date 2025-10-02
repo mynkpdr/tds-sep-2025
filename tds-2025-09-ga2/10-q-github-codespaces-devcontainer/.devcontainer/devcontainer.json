@@ -1,0 +1,25 @@
+{
+  // The name for the devcontainer, as required by the exam.
+  "name": "ga2-aa28c9",
+
+  // Use a base image. The Universal Image is a good default.
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+
+  "features": {
+    // Install Python using the devcontainer feature.
+    "ghcr.io/devcontainers/features/python:1": {}
+  },
+
+  "customizations": {
+    "vscode": {
+      // Install required VS Code extensions.
+      "extensions": [
+        "astral-sh.uv",
+        "ms-python.python"
+      ]
+    }
+  },
+
+  // A command to run after the container is created.
+  "postCreateCommand": "uv pip install fastapi"
+}
