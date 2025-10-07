@@ -68,7 +68,7 @@ code -s
 
 * If **VS Code is installed correctly** and `code` command works, you’ll see something like:
 
-```
+```bash
 --status        Print process and workspace information.
 --version       Print VS Code version.
 --help          Print usage information.

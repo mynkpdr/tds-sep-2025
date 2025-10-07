@@ -26,7 +26,7 @@ The workflow must:
 
       * Use any public GitHub repository. Let's create one named `action-caching-demo`.
 
-      > **Note:** You may need to create a separate github repository for this question because it looks for the most recent action which may interfere with the previous question.
+      > **Note:** You may need to create a separate github repository for this question or combine Q6 and Q7 because it looks for the most recent action which may interfere with the previous question.
 
 2. **Create the Workflow File**:
 
@@ -47,8 +47,6 @@ The workflow must:
 5. **Commit and Push**:
 
       * Commit both `caching.yml` and `requirements.txt` and push to GitHub.
-
-    <!-- end list -->
 
     ```bash
     git add .github/workflows/caching.yml requirements.txt

@@ -41,7 +41,9 @@ Steps to Get the Answer
 
         GNU `rename` lets you use Perl regex, so you can map digits like this:
 
-        `rename 'y/0123456789/1234567890/' *.txt`
+        ```bash
+        rename 'y/0123456789/1234567890/' *.txt
+        ```
 
     - `y/` is the transliteration operator in Perl.
 

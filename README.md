@@ -16,7 +16,7 @@
 
 This repository contains the codes and step by step tutorial and resources for the **Tools in Data Science (TDS) Assignment** for September 2025, part of the IIT Madras BS Degree program.
 
-It covers a wide range of topics including development tools, LLMs, web technologies, data processing, and modern development practices. You can copy the codes, use AI, cheat or even hack, yes that's all allowed, but make sure you understand the concepts behind them.
+It covers a wide range of topics including development tools, LLMs, web technologies, data processing, and modern development practices. It is properly documented with the help of AI and human intervention. You can copy the codes, use AI, cheat or even hack, yes that's all allowed, but make sure you understand the concepts behind them.
 
 The purpose of this repository is to help students facing problems with their questions. Make sure you have gone through the [necessary modules](https://tds.s-anand.net/#/) before attempting these assignments.
 
@@ -41,19 +41,26 @@ tds-sep-2025/
     ├── 02-q-image-compression-dynamic/
     ├── 03-q-github-pages/
     └── ...                 # 13 questions total
+└── tds-2025-09-ga3/
+    ├── 01-q-vibe-code-github-api/
+    ├── 02-q-vibe-code-data-crunching/
+    ├── 03-q-claude-artifacts/
+    └── ...                 # 11 questions total
 ```
 
 ## 🔧 Prerequisites
 
 Before starting, ensure you have the following tools installed:
 
-- 🖥️ **Visual Studio Code** - Primary code editor
+- 👩‍💻 **Visual Studio Code** - Primary and the most popular code IDE
+- 🖥️ **Ubuntu 22.04+** - Strongly recommended since all commands are tested on this OS
 - 🐍 **Python 3.8+** - For Python-based assignments
 - ⚙️ **uv** - An extremely fast Python package manager
 - 📦 **Node.js & npm** - For JavaScript tooling
 - 🌐 **Git** - Version control system
 - 🐳 **Docker** - For containerization tasks
 - 🌐 **Nginx** - For webserver and reverse proxy
+- 🤖 **LLM Access** - OpenAI, Copilot, AIPipe or similar for AI-related tasks
 
 ## 🚀 Getting Started
 
@@ -86,6 +93,7 @@ Before starting, ensure you have the following tools installed:
 
 - [x]  GA1: Completed Questions 01-22
 - [x]  GA2: Completed Questions 01-13
+- [x]  GA3: Completed Questions 01-11
 
 - [x]  All submissions verified
 

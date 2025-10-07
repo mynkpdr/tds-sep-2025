@@ -21,7 +21,7 @@ code --list-extensions
 * This will output **all VS Code extensions installed** on your machine.
 * Each line will be an **extension ID**. For example:
 
-```
+```bash
 ms-python.python
 esbenp.prettier-vscode
 GitHub.copilot
