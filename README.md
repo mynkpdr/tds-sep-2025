@@ -37,15 +37,25 @@ tds-sep-2025/
 │   ├── 03-q-uv-http-post/
 │   └── ...                 # 22 questions total
 └── tds-2025-09-ga2/
-    ├── 01-q-markdown-architecture/
-    ├── 02-q-image-compression-dynamic/
-    ├── 03-q-github-pages/
-    └── ...                 # 13 questions total
+│   ├── 01-q-markdown-architecture/
+│   ├── 02-q-image-compression-dynamic/
+│   ├── 03-q-github-pages/
+│   └── ...                 # 13 questions total
 └── tds-2025-09-ga3/
-    ├── 01-q-vibe-code-github-api/
-    ├── 02-q-vibe-code-data-crunching/
-    ├── 03-q-claude-artifacts/
-    └── ...                 # 11 questions total
+│   ├── 01-q-vibe-code-github-api/
+│   ├── 02-q-vibe-code-data-crunching/
+│   ├── 03-q-claude-artifacts/
+│   └── ...                 # 11 questions total
+└── tds-2025-09-ga4/
+│   ├── 01-q-llm-sentiment-analysis/
+│   ├── 02-q-token-cost/
+│   ├── 03-q-generate-addresses-with-llms/
+│   └── ...                 # 14 questions total
+└── tds-2025-09-ga5/
+    ├── 01-g-google-sheets-importhtml/
+    ├── 02-q-scrape-imdb-movies/
+    ├── 03-q-wikipedia-outline/
+    └── ...                 # 09 questions total
 ```
 
 ## 🔧 Prerequisites
@@ -73,14 +83,13 @@ Before starting, ensure you have the following tools installed:
 
 2. **Navigate to specific assignments:**
 
-    ```bash
-    cd tds-2025-09-ga1/01-q-vs-code-version
-    ```
+   ```bash
+   cd tds-2025-09-ga1/01-q-vs-code-version
+   ```
 
 3. **Read the README in each folder for specific instructions**
 
-💡 Tips for Success
--------------------
+## 💡 Tips for Success
 
 - 📖 **Read instructions carefully** - Each question has specific requirements
 - 🕒 **Manage your time** - Some tasks are more time-intensive than others
@@ -88,18 +97,16 @@ Before starting, ensure you have the following tools installed:
 - 💾 **Backup your work** - Use Git & GitHub effectively
 - 🤝 **Collaborate wisely** - [Discuss](https://github.com/mynkpdr/tds-sep-2025/discussions) questions effectively
 
-📈 Progress Tracking
---------------------
+## 📈 Progress Tracking
 
 - [x]  GA1: Completed Questions 01-22
 - [x]  GA2: Completed Questions 01-13
 - [x]  GA3: Completed Questions 01-11
+- [x]  GA4: Completed Questions 01-14
 
 - [x]  All submissions verified
 
-
-🆘 Getting Help
----------------
+## 🆘 Getting Help
 
 If you encounter issues:
 
@@ -109,9 +116,8 @@ If you encounter issues:
 4. 🎯 Focus on understanding concepts, not just completion
 5. 📧 As a last resort, contact the course instructor
 
-* * * * *
+---
 
-⭐ Don't Forget to Star This Repo
----------------------------------
+## ⭐ Don't Forget to Star This Repo
 
 **If you found this helpful, please give it a star! ⭐**. It helps others discover this resource and supports my efforts to maintain and improve it. Thank you!
