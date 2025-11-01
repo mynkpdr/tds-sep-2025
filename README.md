@@ -34,28 +34,23 @@ tds-sep-2025/
 ├── tds-2025-09-ga1/
 │   ├── 01-q-vs-code-version/
 │   ├── 02-q-github-copilot/
-│   ├── 03-q-uv-http-post/
 │   └── ...                 # 22 questions total
 └── tds-2025-09-ga2/
 │   ├── 01-q-markdown-architecture/
 │   ├── 02-q-image-compression-dynamic/
-│   ├── 03-q-github-pages/
 │   └── ...                 # 13 questions total
 └── tds-2025-09-ga3/
 │   ├── 01-q-vibe-code-github-api/
 │   ├── 02-q-vibe-code-data-crunching/
-│   ├── 03-q-claude-artifacts/
 │   └── ...                 # 11 questions total
 └── tds-2025-09-ga4/
 │   ├── 01-q-llm-sentiment-analysis/
 │   ├── 02-q-token-cost/
-│   ├── 03-q-generate-addresses-with-llms/
 │   └── ...                 # 14 questions total
 └── tds-2025-09-ga5/
     ├── 01-g-google-sheets-importhtml/
     ├── 02-q-scrape-imdb-movies/
-    ├── 03-q-wikipedia-outline/
-    └── ...                 # 09 questions total
+    └── ...                 # 13 questions total
 ```
 
 ## 🔧 Prerequisites
@@ -103,6 +98,7 @@ Before starting, ensure you have the following tools installed:
 - [x]  GA2: Completed Questions 01-13
 - [x]  GA3: Completed Questions 01-11
 - [x]  GA4: Completed Questions 01-14
+- [x]  GA5: Completed Questions 01-13
 
 - [x]  All submissions verified
 
