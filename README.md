@@ -48,9 +48,13 @@ tds-sep-2025/
 │   ├── 02-q-token-cost/
 │   └── ...                 # 14 questions total
 └── tds-2025-09-ga5/
-    ├── 01-g-google-sheets-importhtml/
-    ├── 02-q-scrape-imdb-movies/
-    └── ...                 # 13 questions total
+│   ├── 01-g-google-sheets-importhtml/
+│   ├── 02-q-scrape-imdb-movies/
+│   └── ...                 # 13 questions total
+└── tds-2025-09-ga6/
+    ├── 01-q-excel-operational-metrics/
+    ├── 02-q-editor-incident-tags/
+    └── ...                 # 12 questions total
 ```
 
 ## 🔧 Prerequisites
@@ -99,6 +103,7 @@ Before starting, ensure you have the following tools installed:
 - [x]  GA3: Completed Questions 01-11
 - [x]  GA4: Completed Questions 01-14
 - [x]  GA5: Completed Questions 01-13
+- [x]  GA6: Completed Questions 01-12
 
 - [x]  All submissions verified
 
